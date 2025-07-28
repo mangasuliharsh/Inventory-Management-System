@@ -16,7 +16,7 @@ Database Integration: Built using MySQL for efficient data storage and retrieval
 Technologies Used
 
 Backend: Java , JDBC
-Frontend: HTML, CSS, JavaScript (if applicable)
+Frontend: HTML, CSS, JavaScript
 Database: MySQL
 Version Control: Git, GitHub
 
@@ -37,7 +37,6 @@ View Reports: Access organized data for better inventory insights (future enhanc
 Future Enhancements
 Customer Module: Introduce a module to manage customer details.
 Inventory Alerts: Add notifications for low stock levels.
-Enhanced Reports: Provide analytics and exportable reports.
 
 
 Contributing
